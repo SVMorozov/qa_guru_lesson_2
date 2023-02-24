@@ -1,2 +1,2 @@
-# qa_guru_lesson_2
+# qa_guru_lesson_4_2
 HW for lesson 2
