@@ -2,7 +2,6 @@ import pytest
 from selene.support.shared import browser
 from selene import be, have
 
-
 @pytest.fixture
 def set_window_size():
     browser.config.window_height = 800
